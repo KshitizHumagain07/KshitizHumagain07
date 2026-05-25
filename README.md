@@ -11,10 +11,6 @@
 Crafting modern digital experiences with clean code, smooth interfaces, and luxury minimal design.
 </p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=grey&style=flat-square"/>
-
 </div>
 
 ---
