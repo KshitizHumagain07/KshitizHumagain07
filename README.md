@@ -1,10 +1,3 @@
-
-
-
-Claim offer
-give me a best design markdown for my repo readme.md files
-
-Modern Developer README Design (Clean + Premium)
 <div align="center">
 
 # 👋 Hey, I'm Kshitiz Humagain  
