@@ -27,7 +27,6 @@ Alias: Martin
 Location: Nepal 🇳🇵
 Profession: Software Engineer
 Speciality: UI/UX Design & Web Applications
-Style: Luxury • Minimal • Modern
 ```
 
 - ⚡ Building modern and scalable web applications  
@@ -51,7 +50,6 @@ Style: Luxury • Minimal • Modern
 
 | Project | Description |
 |---|---|
-| 🛍️ Luxury Clothing Store | Premium full-stack eCommerce platform |
 | 🎮 FiveM RP Dashboard | Modern roleplay management system |
 | 📊 Admin Panel | Analytics and advanced management tools |
 | 🌐 Personal Portfolio | Minimal animated showcase website |
