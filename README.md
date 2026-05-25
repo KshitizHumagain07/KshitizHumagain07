@@ -1,16 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0f0f,100:1f1f1f&text=Kshitiz%20Humagain&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20•%20UI/UX%20Designer&descAlignY=55"/>
-
 <br/>
-
-# ✨ Kshitiz Humagain
-### Software Engineer • UI/UX Designer
-
 <p>
 Crafting modern digital experiences with clean code, smooth interfaces, and luxury minimal design.
 </p>
-
 </div>
 
 ---
